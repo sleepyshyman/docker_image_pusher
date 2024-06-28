@@ -1,3 +1,2 @@
-ghcr.io/songquanpeng/one-api:latest
-ollama/ollama:latest
-ghcr.io/open-webui/open-webui:main
+cloudreve/cloudreve:latest
+p3terx/aria2-pro
