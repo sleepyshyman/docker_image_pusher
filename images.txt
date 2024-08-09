@@ -1,2 +1,1 @@
-cloudreve/cloudreve:latest
-p3terx/aria2-pro
+rustdesk/rustdesk-server-pro:latest
